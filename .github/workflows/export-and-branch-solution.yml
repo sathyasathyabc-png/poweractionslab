@@ -26,8 +26,8 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL: https://org4b061d2a.crm8.dynamics.com/
-  USERNAME: test@sathyasathyabcgmail.onmicrosoft.com
+  ENVIRONMENT_URL: 'https://org4b061d2a.crm8.dynamics.com'
+  USERNAME: 'test@sathyasathyabcgmail.onmicrosoft.com'
 
 permissions:
   contents: write
